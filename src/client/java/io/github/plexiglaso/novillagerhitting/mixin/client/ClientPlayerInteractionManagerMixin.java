@@ -25,7 +25,7 @@ public class ClientPlayerInteractionManagerMixin {
             cancellable = true
     )
     public void attackEntity(Player player, Entity entity, CallbackInfo info) {
-        if(entity instanceof Villager && NoVIllagerHittingClient.blockVillagerHits){
+        if(entity instanceof Villager && NoVIllagerHittingClient.modConfig.blockVillagerHits){
             info.cancel();
         }
     }
