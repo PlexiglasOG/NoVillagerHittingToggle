@@ -15,13 +15,13 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"io.github.plexiglaso.novillagerhitting.NoVIllagerHitting"
+			"io.github.plexiglasog.novillagerhitting.NoVIllagerHitting"
 		],
 		"client": [
-			"io.github.plexiglaso.novillagerhitting.NoVIllagerHittingClient"
+			"io.github.plexiglasog.novillagerhitting.NoVIllagerHittingClient"
 		],
 		"fabric-datagen": [
-			"io.github.plexiglaso.novillagerhitting.NoVIllagerHittingDataGenerator"
+			"io.github.plexiglasog.novillagerhitting.NoVIllagerHittingDataGenerator"
 		]
 	},
 	"mixins": [

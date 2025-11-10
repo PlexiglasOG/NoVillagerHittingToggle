@@ -1,4 +1,4 @@
-package io.github.plexiglaso.novillagerhitting;
+package io.github.plexiglasog.novillagerhitting;
 
 import com.mojang.blaze3d.platform.InputConstants;
 import net.fabricmc.api.ClientModInitializer;

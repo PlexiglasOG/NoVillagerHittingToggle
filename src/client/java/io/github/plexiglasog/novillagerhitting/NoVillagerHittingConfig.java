@@ -1,4 +1,4 @@
-package io.github.plexiglaso.novillagerhitting;
+package io.github.plexiglasog.novillagerhitting;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;

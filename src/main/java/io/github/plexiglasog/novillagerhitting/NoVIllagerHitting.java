@@ -1,4 +1,4 @@
-package io.github.plexiglaso.novillagerhitting;
+package io.github.plexiglasog.novillagerhitting;
 
 import net.fabricmc.api.ModInitializer;
 

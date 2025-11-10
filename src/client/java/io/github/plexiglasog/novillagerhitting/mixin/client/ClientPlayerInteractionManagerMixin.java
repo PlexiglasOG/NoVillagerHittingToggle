@@ -1,6 +1,6 @@
-package io.github.plexiglaso.novillagerhitting.mixin.client;
+package io.github.plexiglasog.novillagerhitting.mixin.client;
 
-import io.github.plexiglaso.novillagerhitting.NoVIllagerHittingClient;
+import io.github.plexiglasog.novillagerhitting.NoVIllagerHittingClient;
 import net.fabricmc.api.EnvType;
 import net.fabricmc.api.Environment;
 import net.minecraft.client.multiplayer.MultiPlayerGameMode;
